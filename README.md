@@ -62,4 +62,3 @@ This script fetches an access token using the OAuth2 Authorization Code flow. En
 
 ---
 
-You can copy this note into a new GitHub Gist, filling in the actual values for `redirect_uri`, `authorization_code`, and `token_url` with your specific details.
