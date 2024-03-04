@@ -1,4 +1,3 @@
-Certainly! Below is the note prepared for GitHub Gist in English, based on the provided code snippet:
 
 ---
 
