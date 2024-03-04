@@ -57,8 +57,8 @@ with requests.Session() as session:
         print(f"Error obtaining access token: {response.text}")
 ```
 
-### Description:
-This script fetches an access token using the OAuth2 Authorization Code flow. Ensure you replace placeholder values (`https://yourwebsite.com/callback`, `ReceivedAuthorizationCode`, `https://authorization-server.com/oauth/token`) with actual data specific to your OAuth setup.
+
+
 
 ---
 
